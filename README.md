@@ -1,3 +1,4 @@
+```
 # 👋 Hi, I'm Aman!
 
 ---
@@ -20,8 +21,8 @@ I'm eager to collaborate on projects involving **predictive analytics**, **recom
 
 * **Programming Languages:** Python, Java
 * **Machine Learning & Data Science:** Model Optimization, Data Visualization, Predictive Analytics, Recommendation Systems
-* **Development & Backend:** Scalable Architectures, CLI Applications, Web Frameworks 
-* **Tools & Libraries:** NumPy,Pandas ,Seaborn,Plotly , Gradle, JSON 
+* **Development & Backend:** Scalable Architectures, CLI Applications, Web Frameworks (e.g., Streamlit for UI)
+* **Tools & Libraries:** NumPy,Pandas , Seaborn ,Plotly , Gradle, JSON
 
 ---
 
@@ -41,5 +42,16 @@ Here are a few notable projects that showcase my skills and interests:
 * **[Startup Analysis](https://github.com/Aman-sys-ui/Startup_analysis)**
     A deep-dive analytical project exploring startup growth, funding patterns, and investment trends within the startup ecosystem.
 
-* **[100 NumPy Challenges](https://github.com/Aman-sys-ui/numpy-100)**
-    A practical repository for strengthening core numerical skills through hands-on NumPy challenges, essential for machine learning model building.
+---
+
+### Connect with Me
+
+* **Email:** [amanak52141@gmail.com](mailto:amanak52141@gmail.com)
+* **Pronouns:** He/Him
+
+---
+
+### Beyond the Keyboard
+
+When I'm not coding, you'll find me **strategizing in chess** or **analyzing sports tactics and trends**. I'm also constantly exploring how to turn real-world challenges into elegant, data-driven software systems.
+```
