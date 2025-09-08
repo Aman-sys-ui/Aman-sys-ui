@@ -2,54 +2,73 @@
 
 ---
 
-### About Me
+## About Me
 
-I'm deeply passionate about the transformative power of **Artificial Intelligence**, **Machine Learning**, and **Software Development**. My journey is focused on bridging the gap between intelligent algorithms and real-world applications, blending the art of development with the science of machine learning to build truly transformative systems.
+I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**. I focus on turning intelligent algorithms into **real-world applications**—building scalable, smart systems that solve complex problems.
 
-Currently, I'm enhancing my expertise in **data science**, **model optimization**, and building **real-world intelligent systems** with robust backend architectures. I love **blending development with machine learning**, creating smart applications that are both scalable and insightful. I thrive on solving complex problems, decoding patterns from raw data, and transforming ideas into robust, intelligent solutions.
-
----
-
-### What I'm Looking For
-
-I'm eager to collaborate on projects involving **predictive analytics**, **recommendation engines**, **automation tools**, or **full-stack intelligent platforms**.
+I specialize in **data science**, **model optimization**, and creating **intelligent systems** with robust backend architectures. I thrive on extracting insights from raw data and transforming ideas into actionable solutions.
 
 ---
 
-### My Toolkit & Expertise
+## 🔭 What I'm Looking For
 
-* **Programming Languages:** Python, Java  
-* **Machine Learning & Data Science:** Model Optimization, Data Visualization, Predictive Analytics, Recommendation Systems  
-* **Development & Backend:** Scalable Architectures, CLI Applications, Web Frameworks (e.g., Streamlit for UI)  
-* **Tools & Libraries:** NumPy, Pandas, Seaborn, Plotly, Gradle, JSON
+I enjoy collaborating on projects in:  
+
+* **Predictive Analytics**  
+* **Recommendation Engines**  
+* **Automation Tools**  
+* **Full-Stack Intelligent Platforms**
 
 ---
 
-### 🔧 Featured Projects
+## 🛠 My Toolkit
 
-Here are a few notable projects that showcase my skills and interests:
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+
+### ML & Data Science
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+### Development & Tools
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
+
+---
+
+## 🔧 Featured Projects
 
 * **[Ticket Booking System](https://github.com/Aman-sys-ui/Ticket_Booking_System)**  
-  A robust CLI-based train ticketing application built with **Java**, **Gradle**, and **JSON**, designed for real-world usability and scalability.
+  CLI-based train ticketing application built with **Java**, **Gradle**, and **JSON**, designed for scalability.
 
 * **[Real Estate Price Predictor & Recommender](https://github.com/Aman-sys-ui/Real-State-price-Predictor-and-recommendation-System)**  
-  An end-to-end machine learning project that predicts housing prices and recommends properties, featuring data science techniques and a Streamlit UI.
+  ML project predicting housing prices and recommending properties, featuring a **Streamlit UI**.
 
 * **[India Data Visualization Project](https://github.com/Aman-sys-ui/India_data_viz_project)**  
-  A data storytelling project revealing powerful insights from Indian datasets using Python and various visualization tools.
+  Data storytelling project uncovering insights from Indian datasets using Python.
 
 * **[Startup Analysis](https://github.com/Aman-sys-ui/Startup_analysis)**  
-  A deep-dive analytical project exploring startup growth, funding patterns, and investment trends within the startup ecosystem.
+  Analytical project exploring startup growth, funding patterns, and investment trends.
 
 ---
 
-### Connect with Me
+## 📫 Connect with Me
 
 * **Email:** [amanak52141@gmail.com](mailto:amanak52141@gmail.com)  
-* **Pronouns:** He/Him
+* **Pronouns:** He/Him  
 
 ---
 
-### Beyond the Keyboard
+## ⚡ GitHub Stats
 
-When I'm not coding, you'll find me **strategizing in chess** or **analyzing sports tactics and trends**. I'm also constantly exploring how to turn real-world challenges into elegant, data-driven software systems.
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-sys-ui&show_icons=true&theme=radical)
+
+---
+
+## Beyond the Keyboard
+
+When I'm not coding, I enjoy **strategizing in chess** and **analyzing sports trends**. I constantly explore ways to turn real-world challenges into **data-driven software solutions**.
