@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aman!
+# Hi, I'm Aman!
 
 ---
 
