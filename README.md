@@ -42,9 +42,6 @@ I enjoy collaborating on projects in:
 
 ## 🔧 Featured Projects
 
-* **[Ticket Booking System](https://github.com/Aman-sys-ui/Ticket_Booking_System)**  
-  CLI-based train ticketing application built with **Java**, **Gradle**, and **JSON**, designed for scalability.
-
 * **[Real Estate Price Predictor & Recommender](https://github.com/Aman-sys-ui/Real-State-price-Predictor-and-recommendation-System)**  
   ML project predicting housing prices and recommending properties, featuring a **Streamlit UI**.
 
